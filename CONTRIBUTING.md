@@ -6,3 +6,4 @@ Notes and usage details for EvalLeak.
 - add a note about the defaults
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
